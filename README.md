@@ -35,8 +35,9 @@ Para clonar y ejecutar este proyecto se ebe tener instalado lo siguiente:
 2. Ingresar a la carpeta en la cual se descargo el archivo
 3. Ejecutar el comando
    npm run cy:open
-4. Ejecutar el comando
-   npm run cy:run
+4. En la ventana que se abre seleccionar E2E Testing
+5. Elegir el navegador de preferenica (para esta prueba se realizo en Chrome)
+6. En el listado de pruebas dar click en homePage.cy.js para iniciar la ejecución
 
 De esta forma se podra ejecutar la prueba tecnica de automatización E2E
 
