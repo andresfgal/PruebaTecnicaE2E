@@ -26,13 +26,19 @@ La prueba principal (`homePage.cy.js`) ejecuta el flujo completo de compra de do
 Para clonar y ejecutar este proyecto se ebe tener instalado lo siguiente:
 * Node.js (https://nodejs.org/) (Versión 18 o superior)
 * npm (esto viend incluido en la descarga de Node.js)
+* tener instalado Git
 
-
-
-## 📦 Instalación
+# Instalación del proyecto
 
 1. Clonar el repositorio en local
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone https://github.com/andresfgal/PruebaTecnicaE2E
+2. Ingresar a la carpeta en la cual se descargo el archivo
+3. Ejecutar el comando
+   npm run cy:open
+4. Ejecutar el comando
+   npm run cy:run
+
+De esta forma se podra ejecutar la prueba tecnica de automatización E2E
 
 
 
