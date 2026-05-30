@@ -32,9 +32,8 @@ Para clonar y ejecutar este proyecto se ebe tener instalado lo siguiente:
 
 1. Clonar el repositorio en local
    git clone https://github.com/andresfgal/PruebaTecnicaE2E
-2. Ingresar a la carpeta en la cual se descargo el archivo
-3. Ejecutar el comando
-   npx cypress open
+2. Ingresar a la carpeta donde esta el proyecto y abrirlo en vs code
+3. Desde la terminal ejecutar el comando "npx cypress open"
 4. En la ventana que se abre seleccionar E2E Testing
 5. Elegir el navegador de preferenica (para esta prueba se realizo en Chrome)
 6. En el listado de pruebas dar click en homePage.cy.js para iniciar la ejecución
